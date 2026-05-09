@@ -177,10 +177,7 @@ I am currently building a portfolio focused on SQL, Python, data analytics, and 
 
 ---
 
-## 📬 Connect With Me
 
-- LinkedIn: Add your LinkedIn URL here
-- GitHub: Add your GitHub profile URL here
 
 ---
 
